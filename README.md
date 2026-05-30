@@ -7,4 +7,4 @@ I'm currently working on:
 - [using vision and reasoning LLMs](https://research.datadesk.eco/firedamp/) for automated attribution of observed methane plumes to oil and gas infrastructure operators;
 - ['watching the watchers'](https://research.datadesk.eco/stac-trace/) using STAC data from hi-res satellite imagery providers.
 
-For all our public research notebooks, see [research.datadesk.eco].
+For all our public research notebooks, see [research.datadesk.eco](research.datadesk.eco).
