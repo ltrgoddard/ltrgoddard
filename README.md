@@ -1,4 +1,4 @@
-# Who am I?
+## Who am I?
 
 I'm a Partner and Head of Research at [Data Desk](https://datadesk.eco/), where I use commercial and open source data to monitor the global fossil fuel industry. My day-to-day stack is [Observable Notebooks 2.0](https://observablehq.com/notebook-kit/) on top of DuckDB, but my first love is the Unix shell.
 
